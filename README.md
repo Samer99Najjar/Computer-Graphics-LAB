@@ -58,3 +58,8 @@ week 11 : 21/5/2022 - 28/5/2022 : still working on stochastic tranpsarency algor
 week 12 : 28/5/2022 - 4/6/2022 : end of semester
 
 summer 1/7/2022 - 31/8/2022 : implemented oit transparency using linked list method .
+
+
+Final Result Example:
+
+![](https://github.com/Samer99Najjar/Computer-Graphics-LAB/result.gif)
