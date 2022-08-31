@@ -62,4 +62,4 @@ summer 1/7/2022 - 31/8/2022 : implemented oit transparency using linked list met
 
 Final Result Example:
 
-![](https://github.com/Samer99Najjar/Computer-Graphics-LAB/result.gif)
+![alt text](https://github.com/Samer99Najjar/Computer-Graphics-LAB/result.gif)
