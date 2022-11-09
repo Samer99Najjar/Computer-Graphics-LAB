@@ -3,12 +3,9 @@
 
 Name: Samer Najjar
 
-Student Number: 207477522
-
 
 Name: faisal saadi
 
-Student Number: 208336321
 
 ### Lecturer
 *Roi Poranne*
@@ -31,6 +28,9 @@ https://developer.download.nvidia.com/assets/gamedev/docs/OrderIndependentTransp
 
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.18.9286&rep=rep1&type=pdf
 
+## code running guide :
+To run the code you need to download CMake and because 1 exapmle equals 1000 words and 1 video equals 1000 examples here is a video that shows how to run  the code
+https://www.dropbox.com/s/aa38by01gfbskyi/generate%20project%20with%20cmake.mp4?dl=0
 
 ## progress
 week 1 13/3/2022 - 20/3/2022 : practicing opengl and searching relevant materials  ( spent 6 hours ).
