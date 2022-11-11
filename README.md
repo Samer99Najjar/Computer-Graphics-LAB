@@ -60,6 +60,6 @@ week 12 : 28/5/2022 - 4/6/2022 : end of semester
 summer 1/7/2022 - 31/8/2022 : implemented oit transparency using linked list method .
 
 
-Final Result Example:
+## Final Result Example:
 
 ![alt text](https://github.com/Samer99Najjar/Computer-Graphics-LAB/blob/main/result.gif)
